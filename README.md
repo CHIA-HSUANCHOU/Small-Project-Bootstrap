@@ -113,6 +113,6 @@ The salary distribution for ML Engineers is right-skewed with extreme high value
 The Permutation Test, which shuffles raw data directly, is more sensitive to such outliers.
 The Bootstrap Test reduces their influence due to resampling.
 
-2 . Different assumptions:
+2. Different assumptions:
 The Permutation Test assumes exchangeability and similar distributions across groups, making it sensitive to shape differences.
 The Bootstrap Test assumes each group is drawn from its own distribution, allowing more flexibility in comparison.
